@@ -1093,5 +1093,12 @@
 		"jarName": "FastAsyncWorldEdit.jar",
 		"configName": "~",
 		"freePlugin":true
-	}
+	},
+	{
+		"name": "Autorank",
+		"Desc": "Automatticly Sticks myu finger up your butt",
+		"jarName": "Autorank-4.0.7.jar",
+		"ConfigName": "Autorank"
+		"Autorank": true
+		
 ]
